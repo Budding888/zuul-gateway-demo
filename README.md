@@ -1,5 +1,9 @@
 # zuul-gateway-demo
+
 zuul动态路由demo
+
+文档说明 
+https://blog.csdn.net/u013815546/article/details/68944039
 
 前言
 --
